@@ -1,0 +1,28 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[SP_Employee_ChangePassword] (Procédure)
+       [dbo].[SP_Employee_Delete] (Procédure)
+       [dbo].[SP_Employee_IsAdmin] (Procédure)
+       [dbo].[SP_Employee_SetAdmin] (Procédure)
+       [dbo].[SP_Employee_UnsetAdmin] (Procédure)
+       [dbo].[SP_Employee_Update] (Procédure)
+       [dbo].[SP_EmployeeLocal_Link] (Procédure)
+       [dbo].[SP_EmployeeLocal_Unlink] (Procédure)
+       [dbo].[SP_Local_Add] (Procédure)
+       [dbo].[SP_Local_Delete] (Procédure)
+       [dbo].[SP_Local_GetAll] (Procédure)
+       [dbo].[SP_Local_GetByFloor] (Procédure)
+       [dbo].[SP_Local_GetById] (Procédure)
+       [dbo].[SP_Local_Update] (Procédure)
+
+** Actions de support

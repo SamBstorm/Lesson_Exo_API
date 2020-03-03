@@ -1,0 +1,9 @@
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\bin\Debug\DB_Exo_API.dacpac
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\bin\Debug\DB_Exo_API.dll
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\bin\Debug\DB_Exo_API.pdb
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\obj\Debug\Model.xml
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\obj\Debug\refactor.xml
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\obj\Debug\postdeploy.sql
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\obj\Debug\predeploy.sql
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\obj\Debug\DB_Exo_API.dll
+C:\Users\Bstorm\source\repos\Exo_API\DB_Exo_API\obj\Debug\DB_Exo_API.pdb

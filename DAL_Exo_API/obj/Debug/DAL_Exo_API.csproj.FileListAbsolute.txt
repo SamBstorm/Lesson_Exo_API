@@ -1,0 +1,5 @@
+C:\Users\Bstorm\source\repos\Exo_API\DAL_Exo_API\bin\Debug\DAL_Exo_API.dll
+C:\Users\Bstorm\source\repos\Exo_API\DAL_Exo_API\bin\Debug\DAL_Exo_API.pdb
+C:\Users\Bstorm\source\repos\Exo_API\DAL_Exo_API\obj\Debug\DAL_Exo_API.csprojAssemblyReference.cache
+C:\Users\Bstorm\source\repos\Exo_API\DAL_Exo_API\obj\Debug\DAL_Exo_API.dll
+C:\Users\Bstorm\source\repos\Exo_API\DAL_Exo_API\obj\Debug\DAL_Exo_API.pdb
